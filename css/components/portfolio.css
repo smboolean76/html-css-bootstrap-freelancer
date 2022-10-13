@@ -1,0 +1,11 @@
+/*------------------------
+    PORTFOLIO
+-------------------------*/
+.ms-portfolio {
+    overflow: hidden;
+    border-radius: 1rem;
+}
+.ms-portfolio img {
+    max-width: 100%;
+    height: auto;
+}

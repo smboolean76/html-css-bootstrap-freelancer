@@ -1,0 +1,12 @@
+/*------------------------
+    FORM ELEMENT
+-------------------------*/
+.ms-form-element {
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 0;
+}
+.ms-form-element:focus {
+    box-shadow: none;
+    border-color: #999;
+}

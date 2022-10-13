@@ -1,0 +1,14 @@
+/*------------------------
+    SOCIAL-BUTTON
+-------------------------*/
+.ms-social-button {
+    display: inline-block;
+    height: var(--ms-social-button-size, 3.125rem);
+    width: var(--ms-social-button-size, 3.125rem);
+    border-radius: 50%;
+    color: inherit;
+    border: 1px solid currentColor;
+    line-height: var(--ms-social-button-size, 3.125rem);
+    text-align: center;
+    font-size: calc( var(--ms-social-button-size, 3.125rem) * 0.5 );
+}
